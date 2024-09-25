@@ -1,4 +1,4 @@
-public class longestWord {
+public class LongestWord {
     //assign a string with a sentence
     //write  a programme that can identify the longest word based on character count
     //print a statement that shows the longest word
